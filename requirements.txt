@@ -3,3 +3,4 @@ langchain_community
 streamlit
 openai
 python-dotenv
+typing
