@@ -41,7 +41,7 @@ class StreamlitCallbackHandler(BaseCallbackHandler):
 
 # Page Configuration
 st.set_page_config(
-    page_title="Professional AI Assistant",
+    page_title="AI Assistant",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
