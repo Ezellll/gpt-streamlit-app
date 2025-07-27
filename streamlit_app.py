@@ -1,5 +1,5 @@
 """
-Professional AI Chat Application using Streamlit and LangChain
+AI Chat Application using Streamlit and LangChain
 Advanced interface with memory, prompt templates, and conversation chains.
 """
 
@@ -255,7 +255,7 @@ def main() -> None:
     # Header
     st.markdown("""
     <div class="main-header">
-        <h1>🚀 Professional AI Assistant</h1>
+        <h1>🚀 AI Assistant</h1>
         <p>Powered by LangChain & OpenAI with Advanced Memory Management</p>
     </div>
     """, unsafe_allow_html=True)
@@ -460,7 +460,7 @@ def main() -> None:
     st.markdown("---")
     st.markdown(
         "<div style='text-align: center; color: #666;'>"
-        f"Professional AI Assistant • Persona: {persona} • Memory: {memory_type}<br>"
+        f"AI Assistant • Persona: {persona} • Memory: {memory_type}<br>"
         "<small>Built with LangChain, Streamlit & OpenAI</small>"
         "</div>",
         unsafe_allow_html=True
