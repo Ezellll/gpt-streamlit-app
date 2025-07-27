@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_community.llms import OpenAI
+from langchain.llms import OpenAI
 import os
 
 st.title("My First AI App")
