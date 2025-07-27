@@ -49,4 +49,6 @@ streamlit run streamlit_app.py
 
 ## 🎥 Demo
 
-![AI Assistant Demo](https://gpt-app-appgit-ezel.streamlit.app/)
+**Canlı Demo**: [https://gpt-app-appgit-ezel.streamlit.app/](https://gpt-app-appgit-ezel.streamlit.app/)
+
+*Uygulamayı canlı olarak deneyimlemek için yukarıdaki linke tıklayın.*
